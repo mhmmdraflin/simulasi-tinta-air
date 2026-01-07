@@ -1,5 +1,3 @@
-Tentu, ini adalah tampilan `README.md` yang telah dirancang khusus menggunakan analogi **Tetesan Tinta (Random Walk)** agar terlihat profesional, menarik, dan informatif untuk repositori GitHub Anda.
-
 ---
 
 # 💧 Simulasi Difusi Tetesan Tinta — Visualisasi Algoritma Random Walk
@@ -24,7 +22,7 @@ Berikut adalah perbandingan antara konsep dasar koordinat dan hasil simulasi pen
 
 | Konsep Dasar (Plot Garis) | Hasil Simulasi (Scatter Plot) |
 | --- | --- |
-| ![Image](https://github.com/user-attachments/assets/f15cd2db-8552-4645-8c91-eef49c760121)|  |
+| ![Grafik Garis](https://github.com/user-attachments/assets/f15cd2db-8552-4645-8c91-eef49c760121) | ![Grafik Scatter](https://github.com/user-attachments/assets/8f089b45-a8bf-4a82-a750-d68b9e01471d) |
 | **Grafik Linear**: Menunjukkan dasar pemetaan koordinat  dan  sebelum algoritma acak diterapkan. | **Scatter Plot Difusi**: Menunjukkan jejak molekul tinta. Warna ungu (awal) ke kuning (akhir) menunjukkan urutan waktu penyebaran. |
 
 ---
